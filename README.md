@@ -2,6 +2,8 @@
 ### Olá! 👋
 Atualmente sou estudante do curso de desenvolvimento web da [@betrybe](https://github.com/betrybe). Já formado no módulo de front-end e finalizando o módulo de back-end.
 
+[Perfil em construção] 🚧
+
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/deivid-borges/)](https://www.linkedin.com/in/deivid-borges/)
 
 [![Gmail  Badge](https://img.shields.io/badge/-deividdeveloper22@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deividdeveloper22@gmail.com)](mailto:deividdeveloper22@gmail.com)
