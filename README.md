@@ -8,9 +8,6 @@ Atualmente sou estudante do curso de desenvolvimento web da [@betrybe](https://g
 
 [![Gmail  Badge](https://img.shields.io/badge/-deividdeveloper22@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deividdeveloper22@gmail.com)](mailto:deividdeveloper22@gmail.com)
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeividBorges93&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeividBorges93&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
----
 ### Tecnologias e Ferramentas 
 
 ![Git Badge](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
