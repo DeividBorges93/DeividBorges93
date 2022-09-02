@@ -23,4 +23,5 @@ Atualmente sou estudante do curso de desenvolvimento web da [@betrybe](https://g
 ![Nodejs Badge](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Heroku Badge](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
 ![TypeScript Badge](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![MongoDB Badge](https://img.shields.io/badge/-Mongodb-black?style=flat-square&logo=mongodb)
 
