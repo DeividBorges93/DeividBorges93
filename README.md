@@ -16,16 +16,27 @@ Formado pela: [@betrybe](https://github.com/betrybe).
 
 ![Git Badge](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![JavaScript Badge](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React Badge](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Redux Badge](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
+
 ![HTML5 Badge](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
 ![CSS3 Badge](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
-![MySQL Badge](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+
+![JavaScript Badge](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript Badge](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+
 ![Docker Badge](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Nodejs Badge](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Heroku Badge](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
-![TypeScript Badge](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+
+![Prisma Badge](https://img.shields.io/badge/-Prisma-black?style=flat-square&logo=prisma)
+![Sequelize Badge](https://img.shields.io/badge/-Sequelize-black?style=flat-square&logo=sequelize)
+
+![MySQL Badge](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![MongoDB Badge](https://img.shields.io/badge/-Mongodb-black?style=flat-square&logo=mongodb)
+![Postgresql Badge](https://img.shields.io/badge/-Postgresql-black?style=flat-square&logo=postgresql)
+
+![React Badge](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Redux Badge](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
+![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
+
+![Heroku Badge](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
+
 
