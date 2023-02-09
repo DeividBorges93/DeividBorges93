@@ -23,6 +23,9 @@ Formado pela: [@betrybe](https://github.com/betrybe).
 ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript Badge](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 
+![Python Badge](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Java Badge](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+
 ![Docker Badge](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Nodejs Badge](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 
