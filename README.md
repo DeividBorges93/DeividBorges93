@@ -3,14 +3,16 @@
 
 Me chamo Deivid,
 
-Sou desenvolvedor full stack com preferência pela área de backend
+Sou desenvolvedor full stack. Um backend lover, se descobrindo no mundo frontend também.
 
 Formado pela: [@betrybe](https://github.com/betrybe).
 
+[![Gmail  Badge](https://img.shields.io/badge/-deividdeveloper22@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deividdeveloper22@gmail.com)](mailto:deividdeveloper22@gmail.com)
+
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-%234067B5.svg?&style=for-the-badge&logo=githubpages&logoColor=black&link=https://deividborges93.github.io/)](https://deividborges93.github.io/)
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/deivid-borges/)](https://www.linkedin.com/in/deivid-borges/)
 
-[![Gmail  Badge](https://img.shields.io/badge/-deividdeveloper22@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deividdeveloper22@gmail.com)](mailto:deividdeveloper22@gmail.com)
 ---
 ### Tecnologias e Ferramentas 
 
