@@ -9,9 +9,15 @@ Formado pela: [@betrybe](https://github.com/betrybe).
 
 [![Gmail  Badge](https://img.shields.io/badge/-deividdeveloper22@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deividdeveloper22@gmail.com)](mailto:deividdeveloper22@gmail.com)
 
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-%234067B5.svg?&style=for-the-badge&logo=githubpages&logoColor=black&link=https://deividborges93.github.io/)](https://deividborges93.github.io/)
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/deivid-borges/)](https://www.linkedin.com/in/deivid-borges/)
+
+<br />
+
+<a href="https://deividborges93.github.io/" targer="blank" rel="noopener noreferrer">
+  <img src="https://github.com/DeividBorges93/DeividBorges93.github.io/blob/main/src/assets/logo-deivid-lateral.png"       alt="logo deivid borges portfolio" width="200"/>
+</a>
+
 
 ---
 ### Tecnologias e Ferramentas 
