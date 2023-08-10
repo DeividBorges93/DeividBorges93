@@ -12,10 +12,8 @@ Formado pela: [@betrybe](https://github.com/betrybe).
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/deivid-borges/)](https://www.linkedin.com/in/deivid-borges/)
 
-<br />
-
 <a href="https://deividborges93.github.io/" targer="blank" rel="noopener noreferrer">
-  <img src="https://github.com/DeividBorges93/DeividBorges93.github.io/blob/main/src/assets/logo-deivid-lateral.png"       alt="logo deivid borges portfolio" width="200"/>
+  <img src="https://github.com/DeividBorges93/DeividBorges93/blob/main/logo-link-my-portfolio.png"       alt="logo deivid borges portfolio" width="200"/>
 </a>
 
 
