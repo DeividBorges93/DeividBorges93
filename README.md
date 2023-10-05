@@ -12,7 +12,7 @@ Formado pela: [@betrybe](https://github.com/betrybe).
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/deivid-borges/)](https://www.linkedin.com/in/deivid-borges/)
 
-<a href="https://deivid-borges-portfolio.vercel.app/" targer="blank" rel="noopener noreferrer">
+<a href="https://deividborges.dev.br/" targer="blank" rel="noopener noreferrer">
   <img src="https://github.com/DeividBorges93/DeividBorges93/blob/main/logo-link-my-portfolio.png"       alt="logo deivid borges portfolio" width="200"/>
 </a>
 
